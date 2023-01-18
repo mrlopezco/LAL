@@ -1,8 +1,9 @@
 # LAL
 Lazy Asset Lunchmoney
 
-LAL is a small script, that will automatically update your LunchMoney Asset's based on your excel input file.
-This is
+LAL is a small script, that will automatically update your LunchMoney Asset's balance based on your excel input file.
+This is specially helpful for records which do not get automatically updated with transactions through the PLAID integration.
+
 
 ## Installation
 
