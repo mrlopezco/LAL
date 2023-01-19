@@ -5,7 +5,7 @@ import time
 from pathlib import Path
 import os
 
-# You will find the documentation under this link: 
+# You will find the documentation under this link: https://github.com/mrlopezco/LAL
 
 # Enter your access token below. You can generate it here: https://my.lunchmoney.app/developers
 # Replaze XYZ with your token
